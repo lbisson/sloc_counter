@@ -1,0 +1,16 @@
+{
+  "name": "sloc_counter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "line-by-line": "^0.1.5",
+    "mongoose": "^4.7.0",
+    "yargs": "^6.4.0"
+  }
+}
